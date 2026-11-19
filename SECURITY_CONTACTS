@@ -10,6 +10,11 @@
 # DO NOT REPORT SECURITY VULNERABILITIES DIRECTLY TO THESE NAMES, FOLLOW THE
 # INSTRUCTIONS AT https://kubernetes.io/security/
 
-justinsb
+# CAPG subproject maintainers (primary contacts)
+cpanato
 damdo
+dims
 salasberryfin
+
+# SIG Cluster Lifecycle lead (backup contact)
+justinsb
